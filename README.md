@@ -2,6 +2,7 @@
 <p> 정치하지 않기</p>
 <p> 착한 마음 갖기</p>
 <p> 놀리지 않기 </p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nthebleakmidwinter&layout=compact&theme=radical)
 
 # 🛠 Tech Stack 🛠
