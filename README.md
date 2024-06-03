@@ -1,9 +1,8 @@
 ## 2024 Goal 👋
-<p> 정치하지 않기</p>
-<p> 착한 마음 갖기</p>
-<p> 놀리지 않기 </p>
-<p> 여자친구 만들기</p>
-
+- 🌱 **정치하지 않기**
+- 💖 **착한 마음 갖기**
+- 🤗 **놀리지 않기**
+- 🌹 **여자친구 만들기**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nthebleakmidwinter&layout=compact&theme=radical)
 
 # 🛠 Tech Stack 🛠
