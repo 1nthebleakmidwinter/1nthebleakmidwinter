@@ -1,7 +1,7 @@
 ## Goal 👋
 <p> 정치하지 않기</p>
 <p> 착한 마음 갖기</p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YangxGeon&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nthebleakmidwinter&layout=compact&theme=radical)
 
 # 🛠 Tech Stack 🛠
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black)
