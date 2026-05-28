@@ -1,5 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1nthebleakmidwinter&layout=compact&theme=radical)
-
 # 🛠 Tech Stack 🛠
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -15,10 +13,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=Artificial-Intelligence&logoColor=white)
-
-
-
-[![1nthebleakmidwinter's GitHub stats](https://github-readme-stats.vercel.app/api?username=1nthebleakmidwinter&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://www.instagram.com/leexhwan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
